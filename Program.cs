@@ -7,6 +7,8 @@
             Console.WriteLine("hello party people");
             Console.WriteLine("dj Robbe on the branch");
             Console.WriteLine( "Beep Beep people!!!!");
+            Console.WriteLine("MEEP MEEP");
+            Console.WriteLine("Final Change");
         }
     }
 }
