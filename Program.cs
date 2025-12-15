@@ -5,8 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("hello party people");
-            Console.WriteLine("Beep Beep people!!!!");
-            Console.WriteLine("MEEP MEEP");
+            Console.WriteLine( "Beep Beep people!!!!");
         }
     }
 }
